@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "til"
+  site-url: "https://muellerzr.github.io/til/"
+  description: "A collection of Today-I-Learned"
+  repo-branch: master
+  repo-url: "https://github.com/muellerzr/til/"
