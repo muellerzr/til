@@ -1,0 +1,10 @@
+website:
+  sidebar:
+    contents:
+      - index.qmd
+      - section: TILs
+        contents:
+          - til/code_review.ipynb
+          - til/sub_cli.ipynb
+          - til/testing.ipynb
+          - til/wraps.ipynb

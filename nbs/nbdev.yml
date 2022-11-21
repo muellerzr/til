@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "til"
-  site-url: "https://muellerzr.github.io/til/"
+  title: "Today I Learned"
+  site-url: "https://muellerzr.github.io/Today I Learned/"
   description: "A collection of Today-I-Learned"
   repo-branch: master
   repo-url: "https://github.com/muellerzr/til/"
