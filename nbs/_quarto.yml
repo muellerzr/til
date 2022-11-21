@@ -15,6 +15,7 @@ format:
 website:
   reader-mode: true
   twitter-card: true
+  google-analytics: "G-QP2V3MGVTM"
   open-graph: true
   repo-actions: [issue]
   navbar:
